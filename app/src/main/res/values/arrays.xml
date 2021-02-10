@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">
+        <item>Chapter 01 </item>
+        <item>Chapter 02</item>
+        <item>Chapter 03</item>
+        <item>Chapter 04</item>
+        <item>Chapter 05 </item>
+        <item>Chapter 06</item>
+        <item>Chapter 07</item>
+
+
+
+
+
+    </string-array>
+
+    <string-array name="country_name1">
+        <item>Introduction</item>
+        <item>Be Willing To Change</item>
+        <item>See Failure As Success</item>
+        <item>Set Better Goals</item>
+        <item>Embrace Positivity</item>
+        <item>Be Careful</item>
+        <item>Conclusion</item>
+
+
+
+
+
+    </string-array>
+</resources>
